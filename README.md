@@ -38,7 +38,6 @@
 
 ###
 
-<img align="right" height="238" src="[https://th.bing.com/th/id/R.22adc7da71cc05d22e71c25fe42ac619?rik=uYl6piJjomAd0w&pid=ImgRaw&r=0](https://cdn.koolreport.com/assets/images/editor/c3/image59cb48c61eecd.jpg)"  />
 
 ###
 
