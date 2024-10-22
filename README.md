@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🏫 bachelor's degree in computer science and engineering from the Faculty of Electronic Engineering Menoufia University.<br>🧑‍💻 love using Software to build useful web applications.<br>🤓 Always learning new things.<br>🌱 I’m currently working as front End (Next js)</p>
+<p align="left">🏫 bachelor's degree in computer science and engineering from the Faculty of Electronic Engineering Menoufia University.<br>🧑‍💻 love using Software to build useful web applications.<br>🌱 I’m currently working as front End (Next js & Angular)</p>
 
 ###
 
