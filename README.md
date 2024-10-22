@@ -1,8 +1,4 @@
-<h1 align="center">Hi, I'm Mousa Ahmed</h1>
-
-###
-
-<h3 align="center">A Front-end developer</h3>
+<h3 align="center">Hi, I'm Mousa Ahmed,a Front-end developer</h3>
 
 ###
 
