@@ -1,66 +1,164 @@
-<h3 align="center">Hi, I'm Mousa Ahmed,a Front-end developer</h3>
+# Hi, I'm Mousa Ahmed 
 
-###
+## Full Stack Developer (Frontend-focused)
 
-<br clear="both">
+Building scalable, production-ready web applications with modern frontend technologies and backend ecosystems.
 
-<h2 align="left">Connect with me:</h2>
+📍 Cairo, Egypt  
+💻 React • Next.js • TypeScript • Node.js  
+🚀 SaaS Platforms • Dashboards • Real-time Applications
 
-###
+---
 
-<div align="left" style="display:'flex';gap:'2'">
-  <a href="https://www.linkedin.com/in/mousa-ahmed/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/moussa.333" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="Moussa.abdelghany@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+## About Me
 
-###
+I'm a Full Stack Developer with 3+ years of experience building production web applications, 
+with a strong focus on frontend architecture, user experience, and scalable application design.
 
-<h2 align="left">About me</h2>
+I specialize in building modern web applications using React, Next.js, Angular, and TypeScript, 
+while also working across backend technologies including Node.js, Express.js, NestJS, MongoDB, 
+PostgreSQL, and RESTful APIs.
 
-###
+My experience includes building:
+- Multi-portal SaaS platforms
+- Business dashboards
+- CMS-driven websites
+- Real-time applications
+- Authentication and authorization systems
+- Responsive interfaces from Figma designs
 
-<p align="left">🏫 bachelor's degree in computer science and engineering from the Faculty of Electronic Engineering Menoufia University.<br>🧑‍💻 love using Software to build useful web applications.<br>🌱 I’m currently working as front End (Next js & Angular)</p>
+I care about writing clean, maintainable code and building reliable systems that solve real business problems.
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## Tech Stack
 
-###
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+
+React • Next.js • Angular • Vue 3  
+Tailwind CSS • shadcn/ui • Material UI  
+TanStack Query • Redux Toolkit • NgRx  
+React Hook Form • Zod
+
+---
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-black?style=flat&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+
+Node.js • Express.js • NestJS  
+RESTful APIs • Authentication • RBAC  
+MongoDB • PostgreSQL • Supabase
+
+---
+
+### CMS & Tools
+
+Strapi CMS • Next-Auth • JWT  
+Socket.IO • Firebase  
+Git • GitHub • Docker  
+Vite • Bun • Vitest  
+Cloudflare • CI/CD
+
+---
+
+# Featured Projects
+
+## 🚀 Guardix — Workforce Operations Platform
+
+**Tech:** Next.js • TypeScript • Tailwind CSS • TanStack Query • Zod
+
+A multi-portal SaaS platform built for workforce operations.
+
+Includes:
+- Admin Portal
+- Employee Portal
+- Client Portal
+- Guard Portal
+
+Implemented:
+- Time-card and shift calculation logic
+- Break and auto-stop workflows
+- Role-based permissions
+- Scheduler module
+- Reminder workflows
 
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="materialui logo"  />
-</div>
+## 🌐 Smicolon.com — Marketing Website
 
-###
+**Tech:** Next.js • TypeScript • Strapi • Tailwind CSS • Cloudflare
+
+Official website for Smicolon GmbH built using a Strapi + Next.js monorepo.
+
+Implemented:
+- Headless CMS integration
+- SEO metadata optimization
+- Sitemap generation
+- Pixel-perfect Figma implementation
+- Responsive bilingual content
+
+
+---
+
+## 📱 NADNEE Dashboard
+
+**Tech:** Next.js • TypeScript • NextAuth • Next-Intl • Zod
+
+A Saudi school pickup platform dashboard.
+
+Implemented:
+- Authentication
+- Arabic/English localization
+- User management
+- Role-based workflows
+- Real-time pickup operations
+
+
+---
+
+# What I Enjoy Building
+
+- Scalable SaaS applications
+- Complex dashboards
+- Full-stack TypeScript systems
+- Clean frontend architectures
+- Real-time applications
+- Developer-friendly APIs
+
+
+---
+
+# Currently Learning
+
+- System Design
+- Backend Architecture
+- Scalable SaaS Patterns
+- Cloud Infrastructure
+
+
+---
+
+# Connect With Me
+
+🌐 Portfolio  
+https://personal-portfolio-five-phi-57.vercel.app/
+
+💼 LinkedIn  
+https://www.linkedin.com/in/mousa-ahmed/
+
+📧 Email  
+moussa.abdelghany@gmail.com
+
+🐙 GitHub  
+https://github.com/MoussaAhmed1
