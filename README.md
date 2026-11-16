@@ -3,15 +3,12 @@
 ## Full Stack Developer (Frontend-focused)
 
 Building scalable, production-ready web applications with modern frontend technologies and backend ecosystems.
-
 📍 Cairo, Egypt  
 💻 React • Next.js • TypeScript • Node.js  
 🚀 SaaS Platforms • Dashboards • Real-time Applications
 
 ---
-
 ## About Me
-
 I'm a Full Stack Developer with 3+ years of experience building production web applications, 
 with a strong focus on frontend architecture, user experience, and scalable application design.
 
@@ -30,7 +27,6 @@ My experience includes building:
 I care about writing clean, maintainable code and building reliable systems that solve real business problems.
 
 ---
-
 ## Tech Stack
 
 ### Frontend
@@ -108,23 +104,6 @@ Implemented:
 - Pixel-perfect Figma implementation
 - Responsive bilingual content
 
-
----
-
-## 📱 NADNEE Dashboard
-
-**Tech:** Next.js • TypeScript • NextAuth • Next-Intl • Zod
-
-A Saudi school pickup platform dashboard.
-
-Implemented:
-- Authentication
-- Arabic/English localization
-- User management
-- Role-based workflows
-- Real-time pickup operations
-
-
 ---
 
 # What I Enjoy Building
@@ -136,27 +115,14 @@ Implemented:
 - Real-time applications
 - Developer-friendly APIs
 
-
----
-
-# Currently Learning
-
-- System Design
-- Backend Architecture
-- Scalable SaaS Patterns
-- Cloud Infrastructure
-
-
 ---
 
 # Connect With Me
 
 🌐 Portfolio  
 https://personal-portfolio-five-phi-57.vercel.app/
-
 💼 LinkedIn  
 https://www.linkedin.com/in/mousa-ahmed/
-
 📧 Email  
 moussa.abdelghany@gmail.com
 
